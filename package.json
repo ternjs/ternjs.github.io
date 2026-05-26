@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/ternjs/ternjs#readme",
   "dependencies": {
-    "codemirror": "^5.48.0",
+    "codemirror": "^5.58.2",
     "tern": "^0.24.1"
   }
 }
